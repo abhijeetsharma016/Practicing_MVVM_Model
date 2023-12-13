@@ -1,5 +1,5 @@
 package com.example.countermvvm
-
+//CounterModel.kt = Model(M), Main activity = View Model (V), Counter View Model = View Model (VM) hence MVVM model.
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
